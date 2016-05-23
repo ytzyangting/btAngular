@@ -1,0 +1,24 @@
+{
+  "notes":[
+    {
+      "content": "这是第一遍日记!",
+      "color": "warning",
+      "date": 1410788931159
+    },
+    {
+      "content": "开会",
+      "color": "primary",
+      "date": 1410788631159
+    },
+    {
+      "content": "看电视",
+      "color": "success",
+      "date": 1410788731159
+    },
+    {
+      "content": "洗澡",
+      "color": "success",
+      "date": 1410788731159
+    }
+  ]
+}
