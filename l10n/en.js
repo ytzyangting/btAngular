@@ -34,10 +34,10 @@
         "VECTOR_MAP" : "Vector Map"
       },
       "Layout" : {
-        "LAYOUT" : "布局",
-        "APPLICATION" : "应用",
-        "FULL_WIDTH" : "全宽度",
-        "MOBILE" : "手机"
+        "LAYOUT" : "Layout",
+        "APPLICATION" : "Application",
+        "FULL_WIDTH" : "full_width",
+        "MOBILE" : "Mobile"
       },
       "table" : {
         "TABLE" : "Table",
