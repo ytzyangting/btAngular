@@ -19,6 +19,12 @@
     "DASHBOARD" : "Dashboard",
     "CALENDAR" : "Calendar",
     "EMAIL" : "Email",
+    "Apps" : {
+        "Apps" : "Apps",
+        "Note" : "Note",
+        "Contacts" : "Contacts",
+        "Weather" : "Weather"
+     },
     "WIDGETS" : "Widgets",
     "components" : {
       "COMPONENTS" : "Components",

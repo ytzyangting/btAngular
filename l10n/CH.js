@@ -19,6 +19,12 @@
     "DASHBOARD" : "仪表板",
     "CALENDAR" : "日历",
     "EMAIL" : "邮件",
+    "Apps" : {
+        "Apps" : "项目",
+        "Note" : "记事本",
+        "Contacts" : "联系人",
+        "Weather" : "天气预报"
+     },
     "WIDGETS" : "窗口小部件",
     "components" : {
       "COMPONENTS" : "组件",
