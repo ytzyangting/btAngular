@@ -10,7 +10,8 @@
       "USER" : "User",
       "EMAIL" : "Email"
     },
-    "NOTIFICATIONS" : "Notifications"
+    "NOTIFICATIONS" : "Notifications",
+    "NAVIGATIONS" : "Navigations"
   }
 },
 "aside" : {

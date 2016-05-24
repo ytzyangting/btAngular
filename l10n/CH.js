@@ -10,7 +10,8 @@
       "USER" : "人员",
       "EMAIL" : "邮件"
     },
-    "NOTIFICATIONS" : "通知"
+    "NOTIFICATIONS" : "通知",
+    "NAVIGATIONS" : "更多导航"
   }
 },
 "aside" : {
