@@ -55,7 +55,8 @@ angular.module('app')
 
       // angular translate
       $scope.lang = { isopen: false };
-      $scope.langs = {CH:'中文',en:'英语', de_DE:'德语', it_IT:'意大利语'};
+      // 如果需要添加更多语言 可在此添加
+      $scope.langs = {CH:'中文',en:'English'};
       $scope.selectLang = $scope.langs[$translate.proposedLanguage()] || "中文";
       $scope.setLang = function(langKey, $event) {
         // set the current lang
