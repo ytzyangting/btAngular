@@ -17,7 +17,7 @@
 "aside" : {
   "nav" : {
     "HEADER" : "导航",
-    "DASHBOARD" : "仪表板",
+    "DASHBOARD" : "控制面板",
     "CALENDAR" : "日历",
     "EMAIL" : "邮件",
     "Apps" : {
