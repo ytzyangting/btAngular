@@ -11,7 +11,7 @@
       "EMAIL" : "邮件"
     },
     "NOTIFICATIONS" : "通知",
-    "NAVIGATIONS" : "更多导航"
+    "NAVIGATIONS" : "更多导航项"
   }
 },
 "aside" : {
