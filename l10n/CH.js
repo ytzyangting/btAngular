@@ -11,13 +11,13 @@
       "EMAIL" : "邮件"
     },
     "NOTIFICATIONS" : "通知",
-    "NAVIGATIONS" : "更多导航"
+    "NAVIGATIONS" : "更多导航项"
   }
 },
 "aside" : {
   "nav" : {
     "HEADER" : "导航",
-    "DASHBOARD" : "仪表板",
+    "DASHBOARD" : "控制面板",
     "CALENDAR" : "日历",
     "EMAIL" : "邮件",
     "Apps" : {
